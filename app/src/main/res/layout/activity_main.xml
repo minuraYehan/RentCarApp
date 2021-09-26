@@ -64,7 +64,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="108dp"
-        android:text="@string/text9"
+        android:text="With Speed"
         android:textColor="#000000"
         android:textSize="36sp"
         android:textStyle="bold"

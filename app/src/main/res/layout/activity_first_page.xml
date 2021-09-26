@@ -30,7 +30,7 @@
         android:layout_width="263dp"
         android:layout_height="54dp"
         android:background="@color/colorButton"
-        android:text="@string/firstpage"
+        android:text="Get Ride With Speed"
         android:textSize="18sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"

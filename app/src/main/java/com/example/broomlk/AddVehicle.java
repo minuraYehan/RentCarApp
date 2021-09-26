@@ -103,7 +103,7 @@ public class AddVehicle extends AppCompatActivity {
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_launcher_background)
                 .setContentTitle("Register")
-                .setContentText("Success!! "+ msg + "'s vehicle is added to Broom.lk") //notification message with owner name
+                .setContentText("Success!! "+ msg + "'s vehicle is added to Speed") //notification message with owner name
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT)
                 .setContentIntent(pendingIntent)
                 .setAutoCancel(true);
